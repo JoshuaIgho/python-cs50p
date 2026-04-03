@@ -4,6 +4,8 @@ This repository contains my daily progress while learning Python from Harvard's 
 
 ## Structure
 - Day 1: Functions & Variables
+- Day 2: Conditionals
+- Day 3: Loops
 
 
 ## Goal
